@@ -1,0 +1,14 @@
+.\objects\main.o: ..\MainFile\main.c
+.\objects\main.o: ..\MainFile\stm32f10x_conf.h
+.\objects\main.o: ..\CMSIS\stm32f10x.h
+.\objects\main.o: ..\CMSIS\core_cm3.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\CMSIS\system_stm32f10x.h
+.\objects\main.o: ..\MainFile\stm32f10x_conf.h
+.\objects\main.o: ..\stdPeriphDriveLib\inc\stm32f10x_gpio.h
+.\objects\main.o: ..\stdPeriphDriveLib\inc\stm32f10x_rcc.h
+.\objects\main.o: ..\stdPeriphDriveLib\inc\stm32f10x_usart.h
+.\objects\main.o: ..\stdPeriphDriveLib\inc\misc.h
+.\objects\main.o: ..\stdPeriphDriveLib\inc\delay.h
+.\objects\main.o: ..\HardWare\UART.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
